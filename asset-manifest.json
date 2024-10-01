@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cortexflow/static/css/main.e4ca8ea6.css",
+    "main.js": "/cortexflow/static/js/main.1f185608.js",
+    "static/media/ROADMAP.png": "/cortexflow/static/media/ROADMAP.490565ab36f222bd1631.png",
+    "static/media/bootstrap-icons.woff?": "/cortexflow/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/libraries.png": "/cortexflow/static/media/libraries.61cf960989c7b8bb009b.png",
+    "static/media/bootstrap-icons.woff2?": "/cortexflow/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/manage-img.png": "/cortexflow/static/media/manage-img.51f9d7095f0b0c741125.png",
+    "static/media/data-science.jpg": "/cortexflow/static/media/data-science.1befe6ea54de3e936cdd.jpg",
+    "static/media/data-analytics.svg": "/cortexflow/static/media/data-analytics.1c5601fb05788bfabdc693077c9641bf.svg",
+    "static/media/logo-brain.png": "/cortexflow/static/media/logo-brain.fbd835c25414629448cb.png",
+    "static/media/coming-soon2.png": "/cortexflow/static/media/coming-soon2.2f1d24d252dea05d9503.png",
+    "static/media/github.png": "/cortexflow/static/media/github.22cfdd1cba253783ce51.png",
+    "static/media/slick.svg": "/cortexflow/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/cortexflow/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/cortexflow/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/cortexflow/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/cortexflow/index.html",
+    "main.e4ca8ea6.css.map": "/cortexflow/static/css/main.e4ca8ea6.css.map",
+    "main.1f185608.js.map": "/cortexflow/static/js/main.1f185608.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4ca8ea6.css",
+    "static/js/main.1f185608.js"
+  ]
+}
