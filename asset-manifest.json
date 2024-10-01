@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cortexflow/static/css/main.d585c0af.css",
-    "main.js": "/cortexflow/static/js/main.1d49f89b.js",
+    "main.css": "/cortexflow/static/css/main.dc2ab221.css",
+    "main.js": "/cortexflow/static/js/main.ddab3807.js",
     "static/media/bootstrap-icons.woff?": "/cortexflow/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/libraries.png": "/cortexflow/static/media/libraries.61cf960989c7b8bb009b.png",
     "static/media/bootstrap-icons.woff2?": "/cortexflow/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
@@ -16,11 +16,11 @@
     "static/media/slick.ttf": "/cortexflow/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/cortexflow/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/cortexflow/index.html",
-    "main.d585c0af.css.map": "/cortexflow/static/css/main.d585c0af.css.map",
-    "main.1d49f89b.js.map": "/cortexflow/static/js/main.1d49f89b.js.map"
+    "main.dc2ab221.css.map": "/cortexflow/static/css/main.dc2ab221.css.map",
+    "main.ddab3807.js.map": "/cortexflow/static/js/main.ddab3807.js.map"
   },
   "entrypoints": [
-    "static/css/main.d585c0af.css",
-    "static/js/main.1d49f89b.js"
+    "static/css/main.dc2ab221.css",
+    "static/js/main.ddab3807.js"
   ]
 }
